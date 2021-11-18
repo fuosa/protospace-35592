@@ -26,6 +26,7 @@ li {
 
 img {
   max-width: 100%;
+  border: 1;
   vertical-align: bottom;
 }
 
@@ -80,6 +81,10 @@ a {
 }
 .nav__logout:hover{
   opacity: 0.5;
+}
+
+.nave__left{
+  color: #fff;
 }
 
 /* フォーム周り */
